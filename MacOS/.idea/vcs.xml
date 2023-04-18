@@ -3,7 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/Automation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Backup" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MaxBank-Server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SystemArchives" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SystemSQL" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SystemServer" vcs="Git" />
