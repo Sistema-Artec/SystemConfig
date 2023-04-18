@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MaxBank-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SystemArchives" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SystemSQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SystemServer" vcs="Git" />
+  </component>
+</project>
