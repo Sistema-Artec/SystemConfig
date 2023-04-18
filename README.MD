@@ -1,0 +1,1 @@
+https://joshbuchea.com/mac-enable-xdebug-in-mamp/
